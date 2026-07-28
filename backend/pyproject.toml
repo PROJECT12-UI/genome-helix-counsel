@@ -3,7 +3,7 @@
 [project]
 name = "genome-backend"
 version = "1.0.0"
-requires-python = ">=3.9,<3.10"
+requires-python = ">=3.12"
 dependencies = [
     "Flask==2.0.3",
     "Flask-CORS==3.0.10",
